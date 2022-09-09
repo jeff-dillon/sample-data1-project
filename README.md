@@ -30,4 +30,5 @@ This project demonstrates the following skills:
  - Describing the shape of a data set (num records, num columns, column names, unique values)
  - Cleaning data by creating calculated fields
  - Analyzing data with graphs using Matplotlib
+ - Writing Python functions
 
